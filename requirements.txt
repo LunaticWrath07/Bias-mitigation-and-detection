@@ -1,0 +1,21 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Bias Detection and Mitigation
+aif360
+fairlearn
+
+# Model Explainability
+shap
+lime
+
+# Web Application (if applicable)
+streamlit
+
+# Additional Utilities
+joblib
+tqdm
